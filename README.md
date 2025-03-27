@@ -1,5 +1,5 @@
 # PKM
-Final Year Project
+
 ProctoLab - a platform for managing college practical exams with Knowledge Maps and Proctoring
 
 ## 📸 Screenshots
